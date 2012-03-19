@@ -2,7 +2,7 @@ Debug
 Release
 obj
 bin
-*.out
-*.o
-*.lock*
-*~
+**.out
+**.o
+**.~lock*
+**~
