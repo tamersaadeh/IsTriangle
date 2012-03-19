@@ -43,9 +43,7 @@ int isRectangular(double a, double b, double c) {
 int main() {
 	double a, b, c;
 	puts("Please enter three values to check if they form a triangle:");
-	scanf("%lf", &a);
-	scanf("%lf", &b);
-	scanf("%lf", &c);
+	scanf("%lf %lf %lf", &a, &b, &c);
 
 	if (isATriangle(a, b, c)) {
 
