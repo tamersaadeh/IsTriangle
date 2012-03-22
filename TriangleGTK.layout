@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="libtriangle.h" open="0" top="0" tabpos="0">
+		<Cursor position="70" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="319" topLine="0" />
+	</File>
+	<File name="triangle.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="405" topLine="8" />
+	</File>
+	<File name="triangle.h" open="0" top="0" tabpos="2">
+		<Cursor position="158" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
